@@ -6,7 +6,4 @@ bread
 eggs
 chocolate
 NEW ITEM
-<<<<<<< HEAD:shopping_list.txt 
 local version commit
-=======
->>>>>>> 1b39675b9f68fadaad6bff546720b8d7a825c116:shopping_list.txt
